@@ -46,7 +46,7 @@ Regardless of the environment you may have, chances are rare that you have to [c
 | Number of Arguments    | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/num_of_args.md)            | [Solution](devops-exercises-shell-scripts/num-of-args[Y])    |
 | Empty Files            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/empty_files.md)            | [Solution](devops-exercises-shell-scripts/empty-files[Y])    |
 | Directories Comparison | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/directories_comparison.md) | [Solution](devops-exercises-shell-scripts/directory-comp[Y])    |
-| It's alive!            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/host_status.md)            | [Solution](devops-exercises-shell-scripts/It's-alive[Y])    |
+| It's alive!            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/host_status.md)            | [Solution](devops-exercises-shell-scripts/Its-alive[Y])    |
 
 
 
