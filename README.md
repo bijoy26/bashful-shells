@@ -33,20 +33,21 @@ Regardless of the environment you may have, chances are rare that you have to [c
 [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains a comprehensive list of exercises to skill-up in DevOps domain. Here's my take on the _[shell scripting problems](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/README.md)_.
 
 
-| Name                   | Problem Description                                                                                             | Solution                                |
-|------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Hello World            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/hello_world.md)            | [Solution](devops-exercises-shell-scripts/helloworld[Y])    |
-| Basic date             | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/basic_date.md)             | [Solution](devops-exercises-shell-scripts/basic-date[Y])     |
-| Great Day              | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/great_day.md)              | [Solution](devops-exercises-shell-scripts/great-day[Y])      |
-| Factors                | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/factors.md)                | [Solution](devops-exercises-shell-scripts/factors[Y])        |
-| Argument Check         | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/argument_check.md)         | [Solution](devops-exercises-shell-scripts/argument-check[Y]) |
-| Files Size             | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/files_size.md)             | [Solution](devops-exercises-shell-scripts/files-size[Y])     |
-| Count Chars            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/count_chars.md)            | [Solution](devops-exercises-shell-scripts/count-chars[Y])    |
-| Sum                    | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/sum.md)                    | [Solution](devops-exercises-shell-scripts/sum[Y])            |
-| Number of Arguments    | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/num_of_args.md)            | [Solution](devops-exercises-shell-scripts/num-of-args[Y])    |
-| Empty Files            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/empty_files.md)            | [Solution](devops-exercises-shell-scripts/empty-files[Y])    |
-| Directories Comparison | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/directories_comparison.md) | [Solution](devops-exercises-shell-scripts/directory-comp[Y])    |
-| It's alive!            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/host_status.md)            | [Solution](devops-exercises-shell-scripts/its-alive[Y])    |
+| Serial | Name                   | Problem Description                                                                                             | Solution                                                     |
+|--------|------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 1      | Hello World            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/hello_world.md)            | [Solution](devops-exercises-shell-scripts/helloworld[Y])     |
+| 2      | Basic date             | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/basic_date.md)             | [Solution](devops-exercises-shell-scripts/basic-date[Y])     |
+| 3      | Great Day              | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/great_day.md)              | [Solution](devops-exercises-shell-scripts/great-day[Y])      |
+| 4      | Factors                | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/factors.md)                | [Solution](devops-exercises-shell-scripts/factors[Y])        |
+| 5      | Argument Check         | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/argument_check.md)         | [Solution](devops-exercises-shell-scripts/argument-check[Y]) |
+| 6      | Files Size             | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/files_size.md)             | [Solution](devops-exercises-shell-scripts/files-size[Y])     |
+| 7      | Count Chars            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/count_chars.md)            | [Solution](devops-exercises-shell-scripts/count-chars[Y])    |
+| 8      | Sum                    | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/sum.md)                    | [Solution](devops-exercises-shell-scripts/sum[Y])            |
+| 9      | Number of Arguments    | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/num_of_args.md)            | [Solution](devops-exercises-shell-scripts/num-of-args[Y])    |
+| 10     | Empty Files            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/empty_files.md)            | [Solution](devops-exercises-shell-scripts/empty-files[Y])    |
+| 11     | Directories Comparison | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/directories_comparison.md) | [Solution](devops-exercises-shell-scripts/directory-comp[Y]) |
+| 12     | It's alive!            | [Exercise](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/host_status.md)            | [Solution](devops-exercises-shell-scripts/its-alive[Y])      |
+
 
 
 
