@@ -1,6 +1,6 @@
 # Bashful Shells 🐚
 
-![Scripts](https://img.shields.io/badge/Scripts-20-brown.svg)
+![Scripts](https://img.shields.io/badge/Scripts-22-brown.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue.svg)
 ![Shell](https://img.shields.io/badge/Language-Bash-yellow.svg)
 ![Exercises](https://img.shields.io/badge/Exercises-12-lightgreen.svg)
@@ -78,9 +78,13 @@ The [Linux Shell](https://www.hackerrank.com/domains/shell) module by **HackerRa
 | 2      | Looping and Skipping             | [Exercise](linux-shell-module-hackerrank/looping-and-skipping/problem.md)             | [Solution](linux-shell-module-hackerrank/looping-and-skipping/solution.sh)     |
 
 
-
-
-
-
-
  ---
+
+
+## 🙏 Acknowledgements
+
+A portion of the scripts are based on the problems from various online sources. The originality and copyright of those problem descriptions and corresponding sample data are created by the respective authors and platform owners.
+
+This collection highlights contents from following modules:
+* [devops-exercises](https://github.com/bregman-arie/devops-exercises/blob/master/topics/shell/README.md) by [@bregman-arie](https://github.com/bregman-arie/)
+* [Linux Shell](https://www.hackerrank.com/domains/shell) by [HackerRank](https://www.hackerrank.com/) 
