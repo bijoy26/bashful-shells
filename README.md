@@ -66,3 +66,21 @@ Regardless of the environment you may have, chances are rare that you have to [c
 
 - For better understanding, my personal approach to the problems is enclosed in `function mysolve()`, whereas the intended solution can be found under `function actualsolve()`.
 
+---
+## 🎮 HackerRank Linux Shell Problems
+
+The [Linux Shell](https://www.hackerrank.com/domains/shell) module by **HackerRank** has some interesting _text processing_ problems regarding commands like `awk`, `cut`, `grep`, `head`, `sort`, `tr`, `uniq`, `paste`, `sed` etc. 
+
+
+| Serial | Name                   | Problem Description                                                                                             | Solution                                                     |
+|--------|------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 1      | Middle of a Text File            | [Exercise](linux-shell-module-hackerrank/middle-of-a-text-file/problem.md)            | [Solution](linux-shell-module-hackerrank/middle-of-a-text-file/solution.sh)     |
+| 2      | Looping and Skipping             | [Exercise](linux-shell-module-hackerrank/looping-and-skipping/problem.md)             | [Solution](linux-shell-module-hackerrank/looping-and-skipping/solution.sh)     |
+
+
+
+
+
+
+
+ ---
