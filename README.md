@@ -76,7 +76,7 @@ The [Linux Shell](https://www.hackerrank.com/domains/shell) module by **HackerRa
 |--------|------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | 1      | Middle of a Text File            | [Exercise](linux-shell-module-hackerrank/middle-of-a-text-file/problem.md)            | [Solution](linux-shell-module-hackerrank/middle-of-a-text-file/solution.sh)     |
 | 2      | Looping and Skipping             | [Exercise](linux-shell-module-hackerrank/looping-and-skipping/problem.md)             | [Solution](linux-shell-module-hackerrank/looping-and-skipping/solution.sh)     |
-
+| 2      | Compute the Average             | [Exercise](linux-shell-module-hackerrank/compute-the-average/problem.md)             | [Solution](linux-shell-module-hackerrank/compute-the-average/solution.sh)     |
 
  ---
 
