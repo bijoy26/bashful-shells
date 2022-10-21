@@ -78,6 +78,7 @@ The [Linux Shell](https://www.hackerrank.com/domains/shell) module by **HackerRa
 | 2      | Looping and Skipping             | [Exercise](linux-shell-module-hackerrank/looping-and-skipping/problem.md)             | [Solution](linux-shell-module-hackerrank/looping-and-skipping/solution.sh)     |
 | 3     | Compute the Average             | [Exercise](linux-shell-module-hackerrank/compute-the-average/problem.md)             | [Solution](linux-shell-module-hackerrank/compute-the-average/solution.sh)     |
 | 4      | Slice an Array             | [Exercise](linux-shell-module-hackerrank/slice-an-array/problem.md)             | [Solution](linux-shell-module-hackerrank/slice-an-array/solution.sh)     |
+| 5      | Filter an Array with Patterns             | [Exercise](linux-shell-module-hackerrank/filter-an-array-with-patterns/problem.md)             | [Solution](linux-shell-module-hackerrank/filter-an-array-with-patterns/solution.sh)     |
 
  ---
 
