@@ -80,6 +80,7 @@ The [Linux Shell](https://www.hackerrank.com/domains/shell) module by **HackerRa
 | 4      | Slice an Array             | [Exercise](linux-shell-module-hackerrank/slice-an-array/problem.md)             | [Solution](linux-shell-module-hackerrank/slice-an-array/solution.sh)     |
 | 5      | Filter an Array with Patterns             | [Exercise](linux-shell-module-hackerrank/filter-an-array-with-patterns/problem.md)             | [Solution](linux-shell-module-hackerrank/filter-an-array-with-patterns/solution.sh)     |
 | 6      | Display Nth word           | [Exercise](linux-shell-module-hackerrank/cut-%237/problem.md)             | [Solution](linux-shell-module-hackerrank/cut-%237/solution.sh)     |
+| 7      | Dlt a set of chars          | [Exercise](linux-shell-module-hackerrank/tr-#2/problem.md)             | [Solution](linux-shell-module-hackerrank/tr-#2/solution.sh)     |
 
  ---
 
