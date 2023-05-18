@@ -1,0 +1,47 @@
+#####################################
+# File: version-lock-k8s-related-packages.yaml
+# Description: On a k8s cluster nodes, prevent the k8s related yum packages from being updated by version locking
+# Assumptions: Container runtime containerd, k8s master nodes load balancer keepalived
+# Author: Anjum Rashid (@bijoy26)
+# Created: Wednesday, 18 May 2023
+#####################################---
+- name: Version Lock K8s yum Packages
+  hosts: all
+  tasks:
+      - name: Install yum versionlock
+        ansible.builtin.yum:
+          name:
+            - yum-plugin-versionlock
+          state: present
+
+      - name: Prevent k8s related yum packages from being updated
+        community.general.yum_versionlock:
+          state: present
+          name:
+            - kubectl
+            - kubelet
+            - kubeadm
+            - containerd  
+            - etcd
+            - keepalived
+            - docker-ce
+
+      - name: Check package status
+        ansible.builtin.shell: yum versionlock list  
+        register: vlocks
+
+      - name: Print package lists
+        debug:
+          msg:
+          - "Changes in K8s Related Packages: "
+          - "{{ vlocks.stdout_lines }}"
+
+      - name: Check locked package update status
+        ansible.builtin.shell: yum versionlock status
+        register: vlock_updates
+
+      - name: Print updatable package lists
+        debug:
+          msg:
+          - "Verion locked packages with available updates:"
+          - "{{ vlock_updates.stdout_lines }}"
