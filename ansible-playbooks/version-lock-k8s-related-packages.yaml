@@ -1,7 +1,7 @@
 #####################################
 # File: version-lock-k8s-related-packages.yaml
 # Description: On a k8s cluster nodes, prevent the k8s related yum packages from being updated by version locking
-# Assumptions: Container runtime containerd, k8s master nodes load balancer keepalived
+# Assumptions: Container runtime can be containerd / docker and k8s master node load balancer can be keepalived / haproxy
 # Author: Anjum Rashid (@bijoy26)
 # Created: Wednesday, 18 May 2023
 #####################################---
