@@ -14,7 +14,7 @@ A collection of automation scripts, productivity hacks, self-made challenge walk
 - Plenty of *Bashful (understandably blushy)* shells ~~waiting to be noticed~~
 - Solutions to interview problems and exercises  
 - A petty attempt to promote the fun of shell scripting 🤞
-- _Generator scripts_ (that initializes the test environment to solve the corresponding problem)
+- _Generator scripts_ (that bootstraps the test environment to solve the corresponding problem)
 - A constant reminder to myself that I don't need to reinvent the wheel everytime I rediscover the same issue  
 
 > 📌 Note to self: Remember that ugly script you wrote scratching the head for two hours last week? It's never too late push that over here!  
@@ -24,7 +24,7 @@ A collection of automation scripts, productivity hacks, self-made challenge walk
 Regardless of the environment you may have, chances are rare that you have to [compile bash from source](https://www.gnu.org/software/bash/manual/html_node/Installing-Bash.html). A bash shell can be accessed through following means:
 
 - **GNU/Linux based Distros (Preinstalled)**
-- **Git Bash for Windows**
+- **Git Bash for Windows** (for lifeless maniacs)
 - **Online Bash Interpreter**
 
 ---
